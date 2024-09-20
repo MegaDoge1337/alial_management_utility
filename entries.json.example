@@ -1,0 +1,11 @@
+[
+  {
+    "name": "myserver",
+    "cwd": "X:\\path\\to\\cwd",
+    "target": "connect.bat",
+    "subtargets": [
+      ".\\someprocess.exe"
+    ],
+    "c2c": "copymetocliboard"
+  }
+]
